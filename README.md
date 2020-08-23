@@ -19,4 +19,4 @@ To improve the model and to perform hyper parameter tuning, I have successfully 
 From my analysis, I have observed that Random Forest Classifier is best model fit to the data set being an ensemble method it gave better results. Though I have applied
 Bagging, Grid Search, the accuracy has increased only by 2% even after lot of hard work.
 
-But after performing Random Forest on data which is Clustered and applied PCA gives an accuray of 97% on test data which is @% more than just Random Forest classifier. 
+But after performing Random Forest on data which is Clustered and applied PCA gives an accuray of 97% on test data which is 2% more than just Random Forest classifier. 
